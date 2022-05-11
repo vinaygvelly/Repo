@@ -1,0 +1,19 @@
+----- Overview -----
+
+Make sure you're running as sudo.
+
+
+----- Server -----
+
+1. Create a socket object
+2. Assign IP address and port to socket
+3. The server can now listen for and accept connections.
+4. Clients will try to connect, and the server will accept connection
+
+The server and client begin a request/response (send/receive) cycle once the connection is established.
+
+----- Resources -----
+
+http://www.binarytides.com/python-packet-sniffer-code-linux/
+https://docs.python.org/3.4/library/struct.html#format-characters
+
