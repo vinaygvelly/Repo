@@ -35,7 +35,3 @@ We did 30 epochs, to get a good accuracy from the model i.e. 40% for training ac
 CNN Model:
 We did 50 epochs, to get a good accuracy from the model i.e. 98% for training accuracy and 96% for validation accuracy.
 
-The Output
-Open Eyes
-Open_eyes
-Close Eyes
